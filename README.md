@@ -10,7 +10,7 @@ Third-generation sequencers such as Pacific bioscience SMRT sequencing, Oxford n
 RNA-Seq analysis is undeniably important tool for transcriptomic data analysis with wide range of applications from differential gene expression analysis, variant identification to genome assembly. Wang et al. (2008) suggests that more than 90% of human genes are alternatively spliced to form isoforms. Long reads can sequence isoforms whereas this information may be complex to gain from short reads. Therefore, long reads can capture complete isoform diversity. Pacific Biosciences (PacBio) and Oxford Nanopore (ONT) are dominant in long read sequencing which can sequence 50 kilobases at a time. Nanopore sequencing technology (Jain) can sequence RNA directly without modification, cDNA synthesis and/or PCR amplification during library preparation required in other sequencing techniques called as long-read direct RNA sequencing. 
 Recent advances in long-reads demand for RNA-Seq analysis tools to analyze long read segments along with traditional short-reads. StringTie2 is a transcript assembler for short reads and long reads and has claims to have better accuracy and sensitivity as compared to other transcript assemblers. In this project, we assess coverage of long-reads and short reads using Stringtie2.
 
-![Introduction to Project-1](projectImg.png "Project Brief-1")
+![Introduction to Project-1](ProjectImg.png "Project Brief-1")
 
 ## Methods
 
